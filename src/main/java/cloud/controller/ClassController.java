@@ -10,7 +10,7 @@ public class ClassController {
 
     @GetMapping("/classes")
     public Object hello(@RequestParam String name) {
-        return "get2";
+        return "get3";
     }
 
     @PostMapping("/classes")
