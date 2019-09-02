@@ -10,7 +10,7 @@
 
     <parent>
         <groupId>com.spring.cloud</groupId>
-        <artifactId>myCenter</artifactId>
+        <artifactId>myCloud</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
