@@ -18,8 +18,7 @@ spring:
     password: ${RABBIT_MQ_PASSWORD:guest}
 
 logging:
-  level:
-    org.springframework.web: error
+  level: error
   path: logs/
   file:
     max-size: 512MB
